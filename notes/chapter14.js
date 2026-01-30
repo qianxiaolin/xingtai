@@ -1,6 +1,6 @@
 // data/chapter1.js
 addChapter({
-    chapter: "第一章：财富",
+    chapter: "第十四课：提升效率的底层逻辑",
     notes: [
         {
             title: "如何致富",

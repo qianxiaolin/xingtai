@@ -1,6 +1,6 @@
 // data/chapter2.js
 addChapter({
-    chapter: "第二章：判断力",
+    chapter: "第十五课-行动主义与热爱主义",
     notes: [
         {
             title: "决策的重要性",
